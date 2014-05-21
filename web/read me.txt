@@ -1,0 +1,11 @@
+Good Eveving Sir
+
+Today i complete database connection 
+
+update function apporved in timesheet module and connect with model and now the leave approve by the admin this project.
+update submit function to submit leave into database and controlled by the admin.
+
+create function for updawn into timesheet and but i face problem on the retrieve on frontend .
+
+
+changes perform on the getWeeks functions to get weekly information.   

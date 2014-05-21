@@ -1,0 +1,16 @@
+[01-Jun-2011 04:30:37] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/radianzi/public_html/demo/admin_login/grooms.php on line 218
+[01-Jun-2011 05:15:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/radianzi/public_html/demo/admin_login/brides.php on line 219
+[01-Jun-2011 05:15:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/radianzi/public_html/demo/admin_login/brides.php on line 219
+[01-Jun-2011 05:15:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/radianzi/public_html/demo/admin_login/brides.php on line 219
+[01-Jun-2011 05:15:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/radianzi/public_html/demo/admin_login/brides.php on line 219
+[01-Jun-2011 05:15:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/radianzi/public_html/demo/admin_login/brides.php on line 219
+[01-Jun-2011 05:59:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/radianzi/public_html/demo/script/validation.php:81) in /home2/radianzi/public_html/demo/admin_login/req_accept.php on line 18
+[01-Jun-2011 06:00:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/radianzi/public_html/demo/script/validation.php:81) in /home2/radianzi/public_html/demo/admin_login/req_accept.php on line 19
+[03-Jun-2011 00:04:33] PHP Parse error:  syntax error, unexpected $end in /home2/radianzi/public_html/demo/admin_login/show_deosit_type.php on line 96
+[03-Jun-2011 00:27:13] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/radianzi/public_html/demo/admin_login/show_deosit_type.php on line 91
+[03-Jun-2011 00:37:59] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/radianzi/public_html/demo/admin_login/show_deosit_type.php on line 91
+[03-Jun-2011 00:38:44] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/radianzi/public_html/demo/admin_login/show_deosit_type.php on line 106
+[03-Jun-2011 00:39:54] PHP Parse error:  syntax error, unexpected '<' in /home2/radianzi/public_html/demo/admin_login/show_deosit_type.php on line 115
+[03-Jun-2011 03:56:54] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/radianzi/public_html/demo/admin_login/req_accept.php on line 18
+[11-Jun-2011 02:27:18] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home2/radianzi/public_html/demo/admin_login/grooms.php on line 226
+[11-Jun-2011 03:58:05] PHP Parse error:  syntax error, unexpected $end in /home2/radianzi/public_html/demo/admin_login/show_deosit_type.php on line 220
